@@ -1,0 +1,14 @@
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\bin\Debug\net8.0\CaroGame.exe
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\bin\Debug\net8.0\CaroGame.deps.json
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\bin\Debug\net8.0\CaroGame.runtimeconfig.json
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\bin\Debug\net8.0\CaroGame.dll
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\bin\Debug\net8.0\CaroGame.pdb
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.AssemblyInfoInputs.cache
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.AssemblyInfo.cs
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.csproj.CoreCompileInputs.cache
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.dll
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\refint\CaroGame.dll
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.pdb
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\CaroGame.genruntimeconfig.cache
+E:\Hoc lap trinh\C#\Project\CaroGame\CaroGame\obj\Debug\net8.0\ref\CaroGame.dll
